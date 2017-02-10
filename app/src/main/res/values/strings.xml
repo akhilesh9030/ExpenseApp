@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Homework02</string>
+    <string name="add">Add Expense</string>
+    <string name="delete">Delete Expense</string>
+    <string name="show">Show Expenses</string>
+    <string name="finish">finish</string>
+    <string name="addtitle">Add An Expense</string>
+    <string name="exp">Expense Name</string>
+    <string name="cat">Category</string>
+    <string name="amt">Amount</string>
+    <string name="date">Date</string>
+    <string name="cam">Receipt</string>
+    <string name="expbut">Add Expense</string>
+    <string name="selexp">Select Expense</string>
+    <string name="save">Save</string>
+    <string name="can">Cancel</string>
+    <string name="delexp">Delete Expense</string>
+    <string name="delbut">delete</string>
+    <string name="delete_string">Delete</string>
+    <string name="exp_details_string">Expense Details</string>
+    <string name="name_string">Name</string>
+    <string-array name="category">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
